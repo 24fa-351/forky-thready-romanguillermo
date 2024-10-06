@@ -1,0 +1,191 @@
+Pattern 1, 5 processes
+Main process (125238) started Process 1 (125239)
+Process 1 (125239) beginning.
+Main process (125238) started Process 2 (125240)
+Process 2 (125240) beginning.
+Main process (125238) started Process 3 (125241)
+Process 3 (125241) beginning.
+Main process (125238) started Process 4 (125242)
+Process 4 (125242) beginning.
+Main process (125238) started Process 5 (125243)
+Process 5 (125243) beginning.
+Process 1 (125239) exiting.
+Process 2 (125240) exiting.
+Process 3 (125241) exiting.
+Process 5 (125243) exiting.
+Process 4 (125242) exiting.
+Main process (125238) exiting.
+
+Pattern 2, 5 processes
+Process 1 (125545) beginning.
+Process 1 (125545) creating Process 2 (125546)
+Process 2 (125546) beginning.
+Process 2 (125546) creating Process 3 (125547)
+Process 3 (125547) beginning.
+Process 3 (125547) creating Process 4 (125548)
+Process 4 (125548) beginning.
+Process 4 (125548) creating Process 5 (125549)
+Process 5 (125549) beginning.
+Process 5 (125549) exiting.
+Process 4 (125548) exiting.
+Process 3 (125547) exiting.
+Process 2 (125546) exiting.
+Process 1 (125545) exiting.
+
+Pattern 1, 10 processes
+Main process (125688) started Process 1 (125689)
+Process 1 (125689) beginning.
+Main process (125688) started Process 2 (125690)
+Process 2 (125690) beginning.
+Main process (125688) started Process 3 (125691)
+Process 3 (125691) beginning.
+Main process (125688) started Process 4 (125692)
+Process 4 (125692) beginning.
+Main process (125688) started Process 5 (125693)
+Process 5 (125693) beginning.
+Main process (125688) started Process 6 (125694)
+Process 6 (125694) beginning.
+Main process (125688) started Process 7 (125695)
+Process 7 (125695) beginning.
+Main process (125688) started Process 8 (125696)
+Process 8 (125696) beginning.
+Main process (125688) started Process 9 (125697)
+Process 9 (125697) beginning.
+Main process (125688) started Process 10 (125698)
+Process 10 (125698) beginning.
+Process 1 (125689) exiting.
+Process 2 (125690) exiting.
+Process 5 (125693) exiting.
+Process 3 (125691) exiting.
+Process 4 (125692) exiting.
+Process 7 (125695) exiting.
+Process 6 (125694) exiting.
+Process 10 (125698) exiting.
+Process 8 (125696) exiting.
+Process 9 (125697) exiting.
+Main process (125688) exiting.
+
+Pattern 2, 10 processes
+Process 1 (125901) beginning.
+Process 1 (125901) creating Process 2 (125902)
+Process 2 (125902) beginning.
+Process 2 (125902) creating Process 3 (125903)
+Process 3 (125903) beginning.
+Process 3 (125903) creating Process 4 (125904)
+Process 4 (125904) beginning.
+Process 4 (125904) creating Process 5 (125905)
+Process 5 (125905) beginning.
+Process 5 (125905) creating Process 6 (125906)
+Process 6 (125906) beginning.
+Process 7 (125907) beginning.
+Process 6 (125906) creating Process 7 (125907)
+Process 7 (125907) creating Process 8 (125908)
+Process 8 (125908) beginning.
+Process 8 (125908) creating Process 9 (125909)
+Process 9 (125909) beginning.
+Process 9 (125909) creating Process 10 (125910)
+Process 10 (125910) beginning.
+Process 10 (125910) exiting.
+Process 9 (125909) exiting.
+Process 8 (125908) exiting.
+Process 7 (125907) exiting.
+Process 6 (125906) exiting.
+Process 5 (125905) exiting.
+Process 4 (125904) exiting.
+Process 3 (125903) exiting.
+Process 2 (125902) exiting.
+Process 1 (125901) exiting.
+
+Pattern 1, 15 processes
+Main process (127804) started Process 1 (127805)
+Process 1 (127805) beginning.
+Main process (127804) started Process 2 (127806)
+Process 2 (127806) beginning.
+Main process (127804) started Process 3 (127807)
+Process 3 (127807) beginning.
+Main process (127804) started Process 4 (127808)
+Process 4 (127808) beginning.
+Main process (127804) started Process 5 (127809)
+Process 5 (127809) beginning.
+Main process (127804) started Process 6 (127810)
+Process 6 (127810) beginning.
+Main process (127804) started Process 7 (127811)
+Process 7 (127811) beginning.
+Main process (127804) started Process 8 (127812)
+Main process (127804) started Process 9 (127813)
+Process 9 (127813) beginning.
+Main process (127804) started Process 10 (127814)
+Process 10 (127814) beginning.
+Main process (127804) started Process 11 (127815)
+Process 8 (127812) beginning.
+Main process (127804) started Process 12 (127816)
+Process 11 (127815) beginning.
+Process 12 (127816) beginning.
+Main process (127804) started Process 13 (127817)
+Process 13 (127817) beginning.
+Main process (127804) started Process 14 (127818)
+Process 14 (127818) beginning.
+Main process (127804) started Process 15 (127819)
+Process 15 (127819) beginning.
+Process 1 (127805) exiting.
+Process 2 (127806) exiting.
+Process 3 (127807) exiting.
+Process 4 (127808) exiting.
+Process 5 (127809) exiting.
+Process 6 (127810) exiting.
+Process 7 (127811) exiting.
+Process 8 (127812) exiting.
+Process 10 (127814) exiting.
+Process 9 (127813) exiting.
+Process 11 (127815) exiting.
+Process 13 (127817) exiting.
+Process 12 (127816) exiting.
+Process 14 (127818) exiting.
+Process 15 (127819) exiting.
+Main process (127804) exiting.
+
+Pattern 2, 15 processes
+Process 1 (128005) beginning.
+Process 1 (128005) creating Process 2 (128006)
+Process 2 (128006) beginning.
+Process 2 (128006) creating Process 3 (128007)
+Process 3 (128007) beginning.
+Process 3 (128007) creating Process 4 (128008)
+Process 4 (128008) beginning.
+Process 4 (128008) creating Process 5 (128009)
+Process 5 (128009) beginning.
+Process 5 (128009) creating Process 6 (128010)
+Process 6 (128010) beginning.
+Process 6 (128010) creating Process 7 (128011)
+Process 7 (128011) beginning.
+Process 7 (128011) creating Process 8 (128012)
+Process 8 (128012) beginning.
+Process 8 (128012) creating Process 9 (128013)
+Process 9 (128013) beginning.
+Process 9 (128013) creating Process 10 (128014)
+Process 10 (128014) beginning.
+Process 10 (128014) creating Process 11 (128015)
+Process 11 (128015) beginning.
+Process 11 (128015) creating Process 12 (128016)
+Process 12 (128016) beginning.
+Process 12 (128016) creating Process 13 (128017)
+Process 13 (128017) beginning.
+Process 13 (128017) creating Process 14 (128018)
+Process 14 (128018) beginning.
+Process 14 (128018) creating Process 15 (128019)
+Process 15 (128019) beginning.
+Process 15 (128019) exiting.
+Process 14 (128018) exiting.
+Process 13 (128017) exiting.
+Process 12 (128016) exiting.
+Process 11 (128015) exiting.
+Process 10 (128014) exiting.
+Process 9 (128013) exiting.
+Process 8 (128012) exiting.
+Process 7 (128011) exiting.
+Process 6 (128010) exiting.
+Process 5 (128009) exiting.
+Process 4 (128008) exiting.
+Process 3 (128007) exiting.
+Process 2 (128006) exiting.
+Process 1 (128005) exiting.
